@@ -1,4 +1,4 @@
-# Node Template
+# Static Node Website Template
 ## Installation
 
 ### Requirements
